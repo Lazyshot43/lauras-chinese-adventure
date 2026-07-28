@@ -1,2 +1,0 @@
-# lauras-chinese-adventure
-Game
